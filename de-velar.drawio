@@ -1,53 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T23:24:23.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="n7POGXm3Gr3VtjP09-pG" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T23:26:31.148Z" agent="5.0 (X11)" etag="GiVBURYrSZpCn9o3zreo" version="13.10.7" type="github">
   <diagram id="df4LoSMx6PirMKs4pR7R" name="Page-1">
-    <mxGraphModel dx="868" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="53Ct0VY88A1SnN8FUH9h-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="53Ct0VY88A1SnN8FUH9h-8" target="0yU8QN1c-Rf17GfS3aar-1" edge="1">
+        <mxCell id="53Ct0VY88A1SnN8FUH9h-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="53Ct0VY88A1SnN8FUH9h-8" target="0yU8QN1c-Rf17GfS3aar-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="53Ct0VY88A1SnN8FUH9h-8" value="[de]velar" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="53Ct0VY88A1SnN8FUH9h-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="53Ct0VY88A1SnN8FUH9h-8" target="53Ct0VY88A1SnN8FUH9h-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="53Ct0VY88A1SnN8FUH9h-8" value="[de]velar" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="330" y="20" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="53Ct0VY88A1SnN8FUH9h-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="53Ct0VY88A1SnN8FUH9h-9" target="53Ct0VY88A1SnN8FUH9h-8" edge="1">
+        <mxCell id="53Ct0VY88A1SnN8FUH9h-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="53Ct0VY88A1SnN8FUH9h-9" target="53Ct0VY88A1SnN8FUH9h-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="53Ct0VY88A1SnN8FUH9h-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0yU8QN1c-Rf17GfS3aar-1" target="53Ct0VY88A1SnN8FUH9h-14" edge="1">
+        <mxCell id="53Ct0VY88A1SnN8FUH9h-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0yU8QN1c-Rf17GfS3aar-1" target="53Ct0VY88A1SnN8FUH9h-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="53Ct0VY88A1SnN8FUH9h-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0yU8QN1c-Rf17GfS3aar-1" target="53Ct0VY88A1SnN8FUH9h-18" edge="1">
+        <mxCell id="53Ct0VY88A1SnN8FUH9h-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0yU8QN1c-Rf17GfS3aar-1" target="53Ct0VY88A1SnN8FUH9h-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0yU8QN1c-Rf17GfS3aar-1" value="Reconocimiento facial" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0yU8QN1c-Rf17GfS3aar-1" value="Reconocimiento facial" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="30" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="53Ct0VY88A1SnN8FUH9h-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="53Ct0VY88A1SnN8FUH9h-9" target="53Ct0VY88A1SnN8FUH9h-10" edge="1">
+        <mxCell id="53Ct0VY88A1SnN8FUH9h-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="53Ct0VY88A1SnN8FUH9h-9" target="53Ct0VY88A1SnN8FUH9h-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="53Ct0VY88A1SnN8FUH9h-9" value="&lt;div&gt;videos&lt;/div&gt;&lt;div&gt;violencia institucional&lt;br&gt;&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="53Ct0VY88A1SnN8FUH9h-9" value="&lt;div&gt;videos&lt;/div&gt;&lt;div&gt;violencia institucional&lt;br&gt;&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="-40" width="90" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="53Ct0VY88A1SnN8FUH9h-10" value="&lt;div&gt;scrapper twitter&lt;/div&gt;&lt;div&gt;(o humano)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="155" y="210" width="80" height="80" as="geometry" />
+        <mxCell id="53Ct0VY88A1SnN8FUH9h-10" value="&lt;div&gt;scrapper twitter&lt;/div&gt;&lt;div&gt;(o humano)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Twint&lt;/div&gt;&lt;div&gt;Twipy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Youtube-dl/twitter&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="53Ct0VY88A1SnN8FUH9h-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="53Ct0VY88A1SnN8FUH9h-14" target="53Ct0VY88A1SnN8FUH9h-23" edge="1">
+        <mxCell id="53Ct0VY88A1SnN8FUH9h-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="53Ct0VY88A1SnN8FUH9h-14" target="53Ct0VY88A1SnN8FUH9h-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="53Ct0VY88A1SnN8FUH9h-14" value="&lt;div&gt;videos&lt;/div&gt;&lt;div&gt;velados&lt;br&gt;&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="53Ct0VY88A1SnN8FUH9h-14" value="&lt;div&gt;videos&lt;/div&gt;&lt;div&gt;velados&lt;br&gt;&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="-40" width="90" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="53Ct0VY88A1SnN8FUH9h-18" value="&lt;div&gt;Opencv Max Msp&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;openpose&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;face-api.js&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;margin-top: 0px ; margin-bottom: 0px ; margin-left: 0px ; margin-right: 0px ; text-indent: 0px&quot;&gt;&lt;a href=&quot;https://justadudewhohacks.github.io/face-api.js/docs/index.html#running-the-examples&quot;&gt;&lt;span style=&quot;text-decoration: underline ; color: #0000ff&quot;&gt;https://justadudewhohacks.github.io/face-api.js/docs/index.html#running-the-examples&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="53Ct0VY88A1SnN8FUH9h-18" value="&lt;div&gt;Opencv Max Msp&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;openpose&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;face-api.js&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;margin-top: 0px ; margin-bottom: 0px ; margin-left: 0px ; margin-right: 0px ; text-indent: 0px&quot;&gt;&lt;a href=&quot;https://justadudewhohacks.github.io/face-api.js/docs/index.html#running-the-examples&quot;&gt;&lt;span style=&quot;text-decoration: underline ; color: #0000ff&quot;&gt;https://justadudewhohacks.github.io/face-api.js/docs/index.html#running-the-examples&lt;/span&gt;&lt;/a&gt; &lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="150" width="220" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="53Ct0VY88A1SnN8FUH9h-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.155;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.141;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="53Ct0VY88A1SnN8FUH9h-23" target="53Ct0VY88A1SnN8FUH9h-25" edge="1">
+        <mxCell id="53Ct0VY88A1SnN8FUH9h-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.155;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.141;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="53Ct0VY88A1SnN8FUH9h-23" target="53Ct0VY88A1SnN8FUH9h-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="53Ct0VY88A1SnN8FUH9h-23" value="Streaming" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" parent="1" vertex="1">
+        <mxCell id="53Ct0VY88A1SnN8FUH9h-23" value="Streaming" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="1">
           <mxGeometry x="850" y="-30" width="188.89" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="53Ct0VY88A1SnN8FUH9h-25" value="&lt;div&gt;OBS &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Youtube&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Peertube? (libre)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Twitch&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Facebook&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mastodon? (libre)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="53Ct0VY88A1SnN8FUH9h-25" value="&lt;div&gt;OBS &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Youtube&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Peertube? (libre)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Twitch&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Facebook&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mastodon? (libre)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="190" width="320" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="53Ct0VY88A1SnN8FUH9h-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/basic-web-ui-elements/295/visualization-128.png" vertex="1" parent="1">
+          <mxGeometry x="301" y="140" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="4-Iec578KEl6bS0YxzSe-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4-Iec578KEl6bS0YxzSe-1" target="0yU8QN1c-Rf17GfS3aar-1">
           <mxGeometry relative="1" as="geometry" />
